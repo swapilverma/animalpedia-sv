@@ -2,7 +2,7 @@
 Created with CodeSandbox
 
 
-Here ,I have created a animal dictionary using ReactJS at [CodeSandboc](https://codesandbox.io/)
+Here ,I have created a animal dictionary using ReactJS at [CodeSandbox](https://codesandbox.io/)
 
 Using this, either searching or clicking the animals present in our database it tells us name of that animal.
 
