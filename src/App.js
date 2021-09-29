@@ -8,7 +8,10 @@ var animalDictionary = {
   "🐎": "horse",
   "🐄": "cow",
   "🐪": "camel",
-  "🐐": "goat"
+  "🐐": "goat",
+  "🐒": "monkey",
+  "🐅": "tiger",
+  "🐇": "rabbit"
 };
 var animalWeKnow = Object.keys(animalDictionary);
 
